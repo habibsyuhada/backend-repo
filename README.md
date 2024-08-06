@@ -3,7 +3,7 @@
 This project serves the purpose of completing a technical test for EBUDDY PTE. LTD.
 
 ## Frontend Application
-You can find the frontend application related to this repository [here](https://github.com/habibsyuhada/frontend-repo).
+You can find the frontend application related to this repository [here](https://github.com/habibsyuhada/frontend-user-login-profile).
 
 
 ## Table of Contents
